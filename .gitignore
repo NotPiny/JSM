@@ -1,0 +1,9 @@
+# Modules
+node_modules/
+
+# Config
+.env
+config.json
+
+# Development
+dist/
